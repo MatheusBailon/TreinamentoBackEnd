@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaUserControl.Domain", "SpaUserControl.Domain\SpaUserControl.Domain.csproj", "{EBFA10AA-A96D-450B-AF89-4C531A7A19ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaUserControl.Common", "SpaUserControl.Common\SpaUserControl.Common.csproj", "{D1F192D9-FCFB-4B63-833E-C99A36C23224}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBFA10AA-A96D-450B-AF89-4C531A7A19ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBFA10AA-A96D-450B-AF89-4C531A7A19ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBFA10AA-A96D-450B-AF89-4C531A7A19ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBFA10AA-A96D-450B-AF89-4C531A7A19ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1F192D9-FCFB-4B63-833E-C99A36C23224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F192D9-FCFB-4B63-833E-C99A36C23224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F192D9-FCFB-4B63-833E-C99A36C23224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F192D9-FCFB-4B63-833E-C99A36C23224}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3056F101-86F2-4C3F-8CFC-FB7BDAF44918}
+	EndGlobalSection
+EndGlobal

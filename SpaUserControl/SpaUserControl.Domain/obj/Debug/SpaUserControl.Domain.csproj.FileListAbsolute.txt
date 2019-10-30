@@ -1,0 +1,8 @@
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpaUserControl.Domain\bin\Debug\SpaUserControl.Domain.dll
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpaUserControl.Domain\bin\Debug\SpaUserControl.Domain.pdb
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpaUserControl.Domain\obj\Debug\SpaUserControl.Domain.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpaUserControl.Domain\obj\Debug\SpaUserControl.Domain.dll
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpaUserControl.Domain\obj\Debug\SpaUserControl.Domain.pdb
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpaUserControl.Domain\bin\Debug\SpaUserControl.Common.dll
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpaUserControl.Domain\bin\Debug\SpaUserControl.Common.pdb
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpaUserControl.Domain\obj\Debug\SpaUserControl.Domain.csproj.CopyComplete

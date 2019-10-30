@@ -1,0 +1,7 @@
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpaUserControl.Common\bin\Debug\SpaUserControl.Common.dll
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpaUserControl.Common\bin\Debug\SpaUserControl.Common.pdb
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpaUserControl.Common\obj\Debug\SpaUserControl.Common.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpaUserControl.Common\obj\Debug\SpaUserControl.Common.dll
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpaUserControl.Common\obj\Debug\SpaUserControl.Common.pdb
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpaUserControl.Common\obj\Debug\SpaUserControl.Common.Resource.Errors.resources
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpaUserControl.Common\obj\Debug\SpaUserControl.Common.csproj.GenerateResource.cache
