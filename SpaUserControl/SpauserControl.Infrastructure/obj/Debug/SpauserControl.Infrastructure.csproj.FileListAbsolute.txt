@@ -1,0 +1,14 @@
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpauserControl.Infrastructure\bin\Debug\SpauserControl.Infrastructure.dll
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpauserControl.Infrastructure\bin\Debug\SpauserControl.Infrastructure.pdb
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpauserControl.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpauserControl.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpauserControl.Infrastructure\bin\Debug\SpaUserControl.Domain.dll
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpauserControl.Infrastructure\bin\Debug\SpaUserControl.Common.dll
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpauserControl.Infrastructure\bin\Debug\SpaUserControl.Domain.pdb
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpauserControl.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpauserControl.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpauserControl.Infrastructure\bin\Debug\SpaUserControl.Common.pdb
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpauserControl.Infrastructure\obj\Debug\SpauserControl.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpauserControl.Infrastructure\obj\Debug\SpauserControl.Infrastructure.csproj.CopyComplete
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpauserControl.Infrastructure\obj\Debug\SpauserControl.Infrastructure.dll
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpauserControl.Infrastructure\obj\Debug\SpauserControl.Infrastructure.pdb

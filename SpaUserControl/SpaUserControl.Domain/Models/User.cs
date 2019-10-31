@@ -9,13 +9,19 @@ namespace SpaUserControl.Domain.Models
 {
     public class User
     {
-        public User(string name,string email)
+        protected User(string name, string email)
         {
             this.Id = Guid.NewGuid();
             this.Name = name;
             this.Email = email;
         }
-        public Guid Id{ get; private set; }
+        //public User(string name, string email)
+        //{
+        //    this.Id = Guid.NewGuid();
+        //    this.Name = name;
+        //    this.Email = email;
+        //}
+        public Guid Id{ get; protected set; }
 
         public string Name { get; private set; }
 
