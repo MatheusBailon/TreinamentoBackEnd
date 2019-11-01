@@ -12,3 +12,4 @@ C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpauserControl.Inf
 C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpauserControl.Infrastructure\obj\Debug\SpauserControl.Infrastructure.csproj.CopyComplete
 C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpauserControl.Infrastructure\obj\Debug\SpauserControl.Infrastructure.dll
 C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpauserControl.Infrastructure\obj\Debug\SpauserControl.Infrastructure.pdb
+C:\Users\Curso\source\repos\TreinamentoBackEnd\SpaUserControl\SpauserControl.Infrastructure\bin\Debug\SpauserControl.Infrastructure.dll.config

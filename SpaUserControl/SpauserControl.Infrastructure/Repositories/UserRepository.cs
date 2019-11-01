@@ -2,10 +2,7 @@
 using SpaUserControl.Domain.Contracts.Repositories;
 using SpaUserControl.Domain.Models;
 using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SpauserControl.Infrastructure.Repositories
 {
@@ -14,21 +11,31 @@ namespace SpauserControl.Infrastructure.Repositories
         private AppDataContext _context = new AppDataContext();
         public User Get(string email)
         {
-            throw new NotImplementedException();
+            return _context.Users.Where(x => x.Email.ToLower() == email.ToLower()).FirstOrDefault();
         }
 
         public User Get(Guid id)
         {
-            return _context.Users.Where(x => x.Id=id);
+           //First = será execudado uma exceção caso o usuário não seja encontado
+           //FisstOrDefault = será retornado null se o usuário não for encontrado
+            return _context.Users.Where(x => x.Id==id).FirstOrDefault();
         }
         public void Create(User user)
         {
-            throw new NotImplementedException();
+            _context.Users.Add(user);
+            _context.SaveChanges();
+        }
+        public void Update(User user)
+        {
+            //Com o State conseguimos saber se foi felta alguma modificação e o proprio entity framework armazena isso no banco
+            _context.Entry<User>(user).State = System.Data.Entity.EntityState.Modified;
+            _context.SaveChanges();
         }
 
         public void Delete(User user)
         {
-            throw new NotImplementedException();
+            _context.Users.Remove(user);
+            _context.SaveChanges();
         }
 
         //Finaliza a conexão
@@ -37,9 +44,5 @@ namespace SpauserControl.Infrastructure.Repositories
             _context.Dispose();
         }
 
-        public void Update(User user)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
